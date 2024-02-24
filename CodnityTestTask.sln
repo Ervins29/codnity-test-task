@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodnityTestTask.Web", "CodnityTestTask.Web\CodnityTestTask.Web.csproj", "{66ED5B52-12E5-41CA-A0F8-1681680670C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodnityTestTask.Data", "CodnityTestTask.Data\CodnityTestTask.Data.csproj", "{A8D349F4-EDA8-4F1B-A335-F1D998AE1F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66ED5B52-12E5-41CA-A0F8-1681680670C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ED5B52-12E5-41CA-A0F8-1681680670C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ED5B52-12E5-41CA-A0F8-1681680670C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ED5B52-12E5-41CA-A0F8-1681680670C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D349F4-EDA8-4F1B-A335-F1D998AE1F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D349F4-EDA8-4F1B-A335-F1D998AE1F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D349F4-EDA8-4F1B-A335-F1D998AE1F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D349F4-EDA8-4F1B-A335-F1D998AE1F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
